@@ -52,20 +52,20 @@ background-image: linear-gradient(to bottom, #FF8C45 0%, #FA7623 100%);
 .navbar li:hover a {
     color: #894d12;
     font-weight: normal;
-    box-shadow: -5px 0 5px -5px #555, 5px 0 5px -5px #555;
+    box-shadow: inset -5px 0 5px -5px #555, inset 5px 0 5px -5px #555;
 }
 
 .navbar li a {
-    color: #fff;
+    color: #ffe4d1;
     text-decoration: none;
     padding: 10px 20px;
     line-height: 35px;
-    font-weight: bold;    
 }
 
 .navbar ul {
     display: none;
     position: absolute;
+    margin-left: 1px;
     z-index: 900;
     padding: 0;
 }
