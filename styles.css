@@ -27,6 +27,7 @@ background-image: -ms-linear-gradient(bottom, #FF8C45 0%, #FA7623 100%);
 background-image: linear-gradient(to bottom, #FF8C45 0%, #FA7623 100%);
     
     color: white;
+
     box-shadow: 1px 1px 3px #555;
     width: 700px;
     height: 35px;
