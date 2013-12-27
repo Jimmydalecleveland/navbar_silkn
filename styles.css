@@ -17,14 +17,14 @@ background-image: -webkit-gradient(
 	linear,
 	left top,
 	left bottom,
-	color-stop(0, #FF9A57),
-	color-stop(1, #FC853A)
+	color-stop(0, #FF8C45),
+	color-stop(1, #FA7623)
 );
-background-image: -o-linear-gradient(bottom, #FF9A57 0%, #FC853A 100%);
-background-image: -moz-linear-gradient(bottom, #FF9A57 0%, #FC853A 100%);
-background-image: -webkit-linear-gradient(bottom, #FF9A57 0%, #FC853A 100%);
-background-image: -ms-linear-gradient(bottom, #FF9A57 0%, #FC853A 100%);
-background-image: linear-gradient(to bottom, #FF9A57 0%, #FC853A 100%);
+background-image: -o-linear-gradient(bottom, #FF8C45 0%, #FA7623 100%);
+background-image: -moz-linear-gradient(bottom, #FF8C45 0%, #FA7623 100%);
+background-image: -webkit-linear-gradient(bottom, #FF8C45 0%, #FA7623 100%);
+background-image: -ms-linear-gradient(bottom, #FF8C45 0%, #FA7623 100%);
+background-image: linear-gradient(to bottom, #FF8C45 0%, #FA7623 100%);
     
     color: white;
     box-shadow: 1px 1px 3px #555;
