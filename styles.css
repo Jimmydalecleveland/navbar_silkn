@@ -80,6 +80,10 @@ background-image: linear-gradient(to bottom, #FF8C45 0%, #FA7623 100%);
 .navbar ul li:first-child {
     border-top: solid 1px #eee;
 }
+.navbar ul li:last-child {
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
 .navbar ul li:hover {
     background: #ff964f;
     border-bottom: solid 1px #ff964f;
